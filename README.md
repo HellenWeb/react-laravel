@@ -13,7 +13,7 @@ bash start.sh
 ```
 
 ## Description
-This application is made on the back-end framework Laravel 9 and the front-end framework React
+This application is made on the back-end framework Laravel 9 and the front-end framework React.
 
 ## Copyright 
 © Copyright by. Hellen
